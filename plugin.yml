@@ -1,0 +1,9 @@
+name: Levitata
+version: 1.3
+main: com.Kento.Levitata.Main
+description: More commands for all of your admins!
+commands:
+  la:
+    description: Main Commands!
+    usage: /<command>
+    aliases: [le, lev, levitata]
